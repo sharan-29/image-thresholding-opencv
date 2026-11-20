@@ -59,9 +59,9 @@ Compare the results obtained from Global, Adaptive, and Otsu's thresholding meth
 
 ## Developed By
 
-**Name: Bhuvanesh.K** 
+**Name: Sharan Kumar G** 
 
-**Register No:212225230035** 
+**Register No:212224230260** 
 
 ## Output
 
@@ -82,7 +82,8 @@ else:
     plt.show()
 ```
 
-<img width="803" height="550" alt="image" src="https://github.com/user-attachments/assets/03f7b219-8093-496b-bb1d-f2447aa556cf" />
+<img width="238" height="261" alt="image" src="https://github.com/user-attachments/assets/25a702b1-4fe0-407f-bb41-2dbaefde3703" />
+
 
 ### ORIGINAL grayscale image
 ```
@@ -94,7 +95,8 @@ plt.title("Original Grayscale Image")
 plt.axis("off")
 plt.show()
 ```
-<img width="792" height="542" alt="image" src="https://github.com/user-attachments/assets/5dfa310b-2cf3-499a-a30b-702a69c011ed" />
+<img width="278" height="293" alt="image" src="https://github.com/user-attachments/assets/01f107a9-4f2a-4240-8370-c01c7cc60c10" />
+
 
 ### Global Thresholding
 
@@ -108,7 +110,8 @@ plt.title("Global Thresholding")
 plt.axis("off")
 plt.show()
 ```
-<img width="805" height="555" alt="image" src="https://github.com/user-attachments/assets/a751949b-3a20-4141-89d7-80074ca84762" />
+<img width="266" height="290" alt="image" src="https://github.com/user-attachments/assets/ee71acb2-4ffe-41ec-99b4-b324ee2fb35d" />
+
 
 ### Adaptive Thresholding
 
@@ -127,7 +130,8 @@ plt.title("Adaptive Thresholding")
 plt.axis("off")
 plt.show()
 ```
-<img width="802" height="547" alt="image" src="https://github.com/user-attachments/assets/432fb6a6-8b1f-4d74-a515-6fae096b6472" />
+<img width="321" height="297" alt="image" src="https://github.com/user-attachments/assets/878db372-2813-4bbd-8d74-95291590df80" />
+
 
 ### Otsu's Thresholding
 
@@ -144,7 +148,8 @@ plt.title("Otsu's Thresholding")
 plt.axis("off")
 plt.show()
 ```
-<img width="793" height="540" alt="image" src="https://github.com/user-attachments/assets/d75385f8-6fb3-4967-ac8d-279277cda5cf" />
+<img width="281" height="300" alt="image" src="https://github.com/user-attachments/assets/218d6078-cde1-491c-9f4f-de8514c299dd" />
+
 
 
 ## Result
